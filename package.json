@@ -1,0 +1,27 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "A place to practice algos",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubalol/algos.git"
+  },
+  "keywords": [
+    "algo",
+    "test",
+    "algorithm"
+  ],
+  "author": "Abaas Khorrami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubalol/algos/issues"
+  },
+  "homepage": "https://github.com/dubalol/algos#readme",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
