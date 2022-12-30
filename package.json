@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/dubalol/algos#readme",
   "dependencies": {
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   }
 }
